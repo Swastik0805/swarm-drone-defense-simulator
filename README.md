@@ -1,14 +1,12 @@
-# Swarm Drone Defense Simulator
+# 🚁 Swarm Drone Defense Simulator
 
 An AI-powered swarm defense simulation developed using Python, Pygame, and Machine Learning.
 
-## Simulation Preview
+## 📸 Simulation Preview
 
 ![Swarm Simulator](screenshots/swarm_simulator.png)
 
----
-
-## Features
+## ✨ Features
 
 - Central Radar Detection System
 - Autonomous Drone Swarm Coordination
@@ -19,9 +17,7 @@ An AI-powered swarm defense simulation developed using Python, Pygame, and Machi
 - Base Defense Monitoring
 - Threat Logging & Heatmap Visualization
 
----
-
-## System Architecture
+## 🏗️ System Architecture
 
 ```text
 Intruders Spawn
@@ -39,20 +35,18 @@ Interception / Tracking
 Capture & Threat Logging
 ```
 
----
-
-## Project Structure
+## 📂 Project Structure
 
 ```text
 swarm-drone-defense-simulator/
 │
-├── main.py              # Main simulation loop
-├── drone.py             # Drone behavior and swarm logic
-├── intruder.py          # Intruder generation and movement
-├── radar.py             # Central radar detection system
-├── ml_predictor.py      # ML threat classification
-├── train_model.py       # Model training script
-├── constants.py         # Global constants
+├── main.py
+├── drone.py
+├── intruder.py
+├── radar.py
+├── ml_predictor.py
+├── train_model.py
+├── constants.py
 │
 ├── screenshots/
 │   └── swarm_simulator.png
@@ -61,9 +55,7 @@ swarm-drone-defense-simulator/
 └── LICENSE
 ```
 
----
-
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - Pygame
@@ -73,101 +65,40 @@ swarm-drone-defense-simulator/
 - Git
 - GitHub
 
----
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Swastik0805/swarm-drone-defense-simulator.git
-cd swarm-drone-defense-simulator
-```
-
-Install dependencies:
+## 🚀 Installation
 
 ```bash
 pip install pygame pandas scikit-learn joblib
-```
-
-Train the model:
-
-```bash
 python train_model.py
-```
-
-Run the simulator:
-
-```bash
 python main.py
 ```
 
----
-
-## Current Capabilities
+## 🎯 Current Capabilities
 
 - Multi-drone autonomous defense
-- Real-time target assignment
-- Centralized radar-based detection
+- Real-time radar detection
+- Dynamic target assignment
 - Machine learning threat evaluation
-- Dynamic swarm coordination
+- Real-time interception
 - Capture and respawn simulation
-- Threat scoring and prioritization
 - Base defense monitoring
 
----
+## 🔮 Future Enhancements
 
-## Sample Features Demonstrated
+- Computer Vision Based Target Recognition (YOLO)
+- Human / Vehicle / Drone Classification
+- Predictive Interception Algorithms
+- Multi-Radar Networks
+- Drone Formation Control
+- Pixhawk Integration
+- Raspberry Pi Deployment
 
-```text
-✓ Centralized Radar Architecture
-✓ Multi-Drone Coordination
-✓ Dynamic Target Assignment
-✓ Threat Scoring
-✓ Machine Learning Classification
-✓ Real-Time Interception
-✓ Base Defense Simulation
-✓ Threat Heatmap Logging
-```
+## 👨‍💻 Author
 
----
-
-## Skills Demonstrated
-
-- Python Programming
-- Object-Oriented Design
-- Machine Learning
-- Swarm Intelligence
-- Autonomous Systems
-- Simulation Development
-- Real-Time Decision Making
-- Defense System Architecture
-
----
-
-## Future Enhancements
-
-- [ ] Computer Vision Based Target Recognition (YOLO)
-- [ ] Human / Vehicle / Drone Classification
-- [ ] Predictive Interception Algorithms
-- [ ] Multi-Radar Network
-- [ ] Drone Formation Control
-- [ ] Pixhawk Integration
-- [ ] Real-Time Telemetry Dashboard
-- [ ] Raspberry Pi Deployment
-- [ ] Autonomous Mission Planning
-
----
-
-## Author
-
-**Swastik Singh**
-
-B.Tech Electronics and Communication Engineering  
+**Swastik Singh**  
+B.Tech Electronics & Communication Engineering  
 PSIT Kanpur
 
----
+## 🏆 Version
 
-## Version
-
-**v1.0 - Centralized AI Swarm Defense System**
+**v1.0 – Centralized AI Swarm Defense System**
