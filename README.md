@@ -2,6 +2,12 @@
 
 An AI-powered swarm defense simulation developed using Python, Pygame, and Machine Learning.
 
+Project description...
+
+## 🎬 Demo
+
+![Swarm Demo](screenshots/swarm_simulator.gif)
+
 ## 📸 Simulation Preview
 
 ![Swarm Simulator](screenshots/swarm_simulator.png)
