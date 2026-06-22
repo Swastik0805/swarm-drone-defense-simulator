@@ -59,4 +59,4 @@ PSIT Kanpur
 
 ## Simulation Preview
 
-![Swarm Simulator](screenshots/swarm_simulator.png)
+![Swarm Simulator](screenshots/screenshots/Screenshot 2026-06-22 144813.png)
