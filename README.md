@@ -8,9 +8,6 @@ Project description...
 
 ![Swarm Demo](screenshots/swarm_simulator.gif)
 
-## 📸 Simulation Preview
-
-![Swarm Simulator](screenshots/swarm_simulator.png)
 
 ## ✨ Features
 
