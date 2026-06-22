@@ -56,3 +56,7 @@ Swastik Singh
 Electronics & Communication Engineering
 
 PSIT Kanpur
+
+## Simulation Preview
+
+![Swarm Simulator](screenshots/swarm_simulator.png)
